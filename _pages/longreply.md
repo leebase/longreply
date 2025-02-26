@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Long Reply"
+permalink: /longreply/
+---
 # Level Up Your Forum Game: Sharing Long-Form Content with GitHub Pages
 
 Ever find yourself crafting a *massive* reply on a forum, full of detailed explanations, code snippets, or schematics, only to hit the character limit or have the formatting go completely bonkers? Yeah, we've all been there.

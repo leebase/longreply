@@ -5,5 +5,4 @@ plugins:
 
 title: "Long Reply"
 description: "Sharing Long-Form Content with GitHub Pages"
-baseurl: "/longreply" # If this is a project repo
 url: "https://leebase.github.io"

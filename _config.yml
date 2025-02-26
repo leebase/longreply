@@ -1,14 +1,7 @@
-title: "Long Reply"
-description: "Sharing Long-Form Content with GitHub Pages"
-theme: minima  # Switch from Minimal Mistakes to Minima
-
-baseurl: "/longreply"  # This must match your repo name
+theme: minima
+baseurl: "/longreply"
 url: "https://leebase.github.io"
 
-# Enable blog posts if needed
-paginate: 5
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+collections:
+  pages:
+    output: true

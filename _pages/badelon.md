@@ -1,3 +1,10 @@
+---
+layout: page
+title: "AI LeapFrog"
+permalink: /badelon/
+---
+# Is Elon's Email To Government Employess Bad?
+
 What do I think?  I agree you identified some problems like reasons for a non-response other than "isn't working", like incorrect manager email.
 
 But I do think this wasn't an "With this email, I will be able to tell if this is a goog employee".   I think it was simply "is anybody home" and that all the managers were going to get a list of "not home" people to validate they had a good reason to miss having replied.

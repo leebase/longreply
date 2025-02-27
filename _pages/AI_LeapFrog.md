@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Long Reply"
+permalink: /longreply/
+---
 # AI Leap Frog
 
 The models are all improving at a rapid pace. Everyone vies to be the smartest and bestest. It's really hard to judge them, but there are performace tests aplenty to compare them.  I go by my own personal use.

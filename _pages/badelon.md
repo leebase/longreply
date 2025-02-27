@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "AI LeapFrog"
+title: "Analyzing Bad Elon Email"
 permalink: /badelon/
 ---
 # Is Elon's Email To Government Employess Bad?

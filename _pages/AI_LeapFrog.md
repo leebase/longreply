@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Long Reply"
-permalink: /longreply/
+title: "AI LeapFrog"
+permalink: /longreply/AI_LeapFrog/
 ---
 # AI Leap Frog
 

@@ -4,7 +4,7 @@ The models are all improving at a rapid pace. Everyone vies to be the smartest a
 
 Here's some recent ones as I await the imminent release of ChatGPT 4.5.
 
-## Claude 3.7
+## Claude 3.7 
 
 Claude launched its latest and from all appearances is a much larger upgrade than the number (from 3.5) would suggest.  Claude was already at the top of  the charts for programming, but has gotten better.
 

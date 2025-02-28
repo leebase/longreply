@@ -1,8 +1,4 @@
----
-layout: page
-title: "Analyzing Bad Elon Email"
-permalink: /badelon/
---- 
+
 # Is Elon's Email To Government Employess Bad?
 
 What do I think?  I agree you identified some problems like reasons for a non-response other than "isn't working", like incorrect manager email.

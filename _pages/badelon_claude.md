@@ -2,7 +2,7 @@
 layout: page
 title: "Claude 3.7 Evaluates Elon's All Govt Email"
 permalink: /badelon_claude/
----
+--- 
 # Analysis of Elon Musk's Email to Federal Employees
 
 ## Political and Administrative Implications

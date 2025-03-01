@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Long Reply"
 permalink: /longreply/
 --- 

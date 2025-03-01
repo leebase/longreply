@@ -3,65 +3,30 @@ layout: default
 title: "14 Day Fasting Journal"
 permalink: /14dayfast/
 ---
-[14 Days with No Food [2](#days-with-no-food)](# 14 Days with No Food)
+### Table of Contents
 
-[That Time Exercise Was Bad (Day 2 of my 14 Day Fast)
-[4](#that-time-exercise-was-bad-day-2-of-my-14-day-fast)](#that-time-exercise-was-bad-day-2-of-my-14-day-fast)
+- [14 Days with No Food](#14-days-with-no-food)
+- [That Time Exercise Was Bad (Day 2 of my 14 Day Fast)](#that-time-exercise-was-bad-day-2-of-my-14-day-fast)
+- [You Can Do Hard Things (Day 3 of 14 Day Fast)](#you-can-do-hard-things-day-3-of-14-day-fast)
+- [Saturday Push Day on Day 4 (of a planned 14 day fast)](#saturday-push-day-on-day-4-of-a-planned-14-day-fast)
+- [Developing Willpower (Day 5 of a 14 Day Fast)](#developing-willpower-day-5-of-a-14-day-fast)
+- [Started at the Bottom, Now I'm Here (Day 6 of my 14 day fast)](#started-at-the-bottom-now-im-here-day-6-of-my-14-day-fast)
+- [The health benefits of Extended Fasting:  https://lessoflee.wordpress.com/extended-fasts/](#the-health-benefits-of-extended-fasting-httpslessofleewordpresscomextended-fasts)
+- [My Doctor Says... (Day 7 of my 14 day fast)](#my-doctor-says-day-7-of-my-14-day-fast)
+- [I Choose to Fast (Day 8 of a Planned 14 Day Fast)](#i-choose-to-fast-day-8-of-a-planned-14-day-fast)
+- [Troubleshooting the Fast (Day 9 of a planned 14)](#troubleshooting-the-fast-day-9-of-a-planned-14)
+- [Day 10 of a Planned 14 Day Fast is Done](#day-10-of-a-planned-14-day-fast-is-done)
+- [Fasting Aids on Day 11 of My 14 Day Fast](#fasting-aids-on-day-11-of-my-14-day-fast)
+- [Planning to Break the Fast (Day 12 of my 14 Day Fast)](#planning-to-break-the-fast-day-12-of-my-14-day-fast)
+- [After the Fast -- Day 13, One  More Day to Go!](#after-the-fast----day-13-one-more-day-togo)
+- [I Did It! Completed a Fourteen Day Fast](#i-did-it-completed-a-fourteen-day-fast)
+- [Losing Fat While Gaining Weight - Post Fast Day 1](#losing-fat-while-gaining-weight---post-fast-day-1)
+- [Fasting and Arthritis - Post Fast Day 2](#fasting-and-arthritis---post-fast-day-2)
+- [16 lbs Less of Lee - Why Fat is So Bad](#16-lbs-less-of-lee---why-fat-is-so-bad)
+- [Is Fasting Pain Relief Temporary?](#is-fasting-pain-relief-temporary)
+- [Links To the Articles on Less of Lee](#links-to-the-articles-on-less-of-lee)
 
-[You Can Do Hard Things (Day 3 of 14 Day Fast)
-[6](#you-can-do-hard-things-day-3-of-14-day-fast)](#you-can-do-hard-things-day-3-of-14-day-fast)
-
-[Saturday Push Day on Day 4 (of a planned 14 day fast)
-[8](#saturday-push-day-on-day-4-of-a-planned-14-day-fast)](#saturday-push-day-on-day-4-of-a-planned-14-day-fast)
-
-[Developing Willpower (Day 5 of a 14 Day Fast)
-[10](#developing-willpower-day-5-of-a-14-day-fast)](#developing-willpower-day-5-of-a-14-day-fast)
-
-[Started at the Bottom, Now I'm Here (Day 6 of my 14 day fast)
-[12](#started-at-the-bottom-now-im-here-day-6-of-my-14-day-fast)](#started-at-the-bottom-now-im-here-day-6-of-my-14-day-fast)
-
-[The health benefits of Extended Fasting: 
-https://lessoflee.wordpress.com/extended-fasts/
-[13](#the-health-benefits-of-extended-fasting-httpslessoflee.wordpress.comextended-fasts)](#the-health-benefits-of-extended-fasting-httpslessoflee.wordpress.comextended-fasts)
-
-[My Doctor Says... (Day 7 of my 14 day fast)
-[14](#my-doctor-says-day-7-of-my-14-day-fast)](#my-doctor-says-day-7-of-my-14-day-fast)
-
-[I Choose to Fast (Day 8 of a Planned 14 Day Fast)
-[15](#i-choose-to-fast-day-8-of-a-planned-14-day-fast)](#i-choose-to-fast-day-8-of-a-planned-14-day-fast)
-
-[Troubleshooting the Fast (Day 9 of a planned 14)
-[17](#troubleshooting-the-fast-day-9-of-a-planned-14)](#troubleshooting-the-fast-day-9-of-a-planned-14)
-
-[Day 10 of a Planned 14 Day Fast is Done
-[19](#day-10-of-a-planned-14-day-fast-is-done)](#day-10-of-a-planned-14-day-fast-is-done)
-
-[Fasting Aids on Day 11 of My 14 Day Fast
-[20](#fasting-aids-on-day-11-of-my-14-day-fast)](#fasting-aids-on-day-11-of-my-14-day-fast)
-
-[Planning to Break the Fast (Day 12 of my 14 Day Fast)
-[22](#planning-to-break-the-fast-day-12-of-my-14-day-fast)](#planning-to-break-the-fast-day-12-of-my-14-day-fast)
-
-[After the Fast -- Day 13, One  More Day to Go!
-[24](#after-the-fast-day-13-one-more-day-to-go)](#after-the-fast-day-13-one-more-day-to-go)
-
-[I Did It! Completed a Fourteen Day Fast
-[26](#i-did-it-completed-a-fourteen-day-fast)](#i-did-it-completed-a-fourteen-day-fast)
-
-[Losing Fat While Gaining Weight - Post Fast Day 1
-[28](#losing-fat-while-gaining-weight---post-fast-day-1)](#losing-fat-while-gaining-weight---post-fast-day-1)
-
-[Fasting and Arthritis - Post Fast Day 2
-[29](#fasting-and-arthritis---post-fast-day-2)](#fasting-and-arthritis---post-fast-day-2)
-
-[16 lbs Less of Lee - Why Fat is So Bad
-[30](#lbs-less-of-lee---why-fat-is-so-bad)](#lbs-less-of-lee---why-fat-is-so-bad)
-
-[Is Fasting Pain Relief Temporary?
-[32](#is-fasting-pain-relief-temporary)](#is-fasting-pain-relief-temporary)
-
-[Links To the Articles on Less of Lee
-[34](#links-to-the-articles-on-less-of-lee)](#links-to-the-articles-on-less-of-lee)
+---
 
 # 14 Days with No Food
 
@@ -136,6 +101,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>**\
 **
+[Back to Table of Contents](#table-of-contents)
 
 # That Time Exercise Was Bad (Day 2 of my 14 Day Fast)
 
@@ -220,6 +186,7 @@ wishers.
 p.s. Always consult your own health team for your specific needs
 
 p.p.s. Educate yourself to fully participate in your health strategy
+[Back to Table of Contents](#table-of-contents)
 
 # You Can Do Hard Things (Day 3 of 14 Day Fast)
 
@@ -331,6 +298,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>
+[Back to Table of Contents](#table-of-contents)
 
 # Saturday Push Day on Day 4 (of a planned 14 day fast)
 
@@ -383,6 +351,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>
+[Back to Table of Contents](#table-of-contents)
 
 # Developing Willpower (Day 5 of a 14 Day Fast)
 
@@ -464,6 +433,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>
+[Back to Table of Contents](#table-of-contents)
 
 # Started at the Bottom, Now I'm Here (Day 6 of my 14 day fast)
 
@@ -513,6 +483,7 @@ can do far more than you may think.
 p.s.  Always consult your own health team for your specific needs
 
 p.p.s. Educate yourself to fully participate in your health strategy 
+[Back to Table of Contents](#table-of-contents)
 
 # The health benefits of Extended Fasting:  <https://lessoflee.wordpress.com/extended-fasts/>
 
@@ -565,6 +536,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>
+[Back to Table of Contents](#table-of-contents)
 
 # I Choose to Fast (Day 8 of a Planned 14 Day Fast)
 
@@ -657,6 +629,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>
+[Back to Table of Contents](#table-of-contents)
 
 # Troubleshooting the Fast (Day 9 of a planned 14)
 
@@ -732,6 +705,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>
+[Back to Table of Contents](#table-of-contents)
 
 # Day 10 of a Planned 14 Day Fast is Done 
 
@@ -765,6 +739,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>
+[Back to Table of Contents](#table-of-contents)
 
 # Fasting Aids on Day 11 of My 14 Day Fast
 
@@ -837,6 +812,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>
+[Back to Table of Contents](#table-of-contents)
 
 # Planning to Break the Fast (Day 12 of my 14 Day Fast)
 
@@ -930,6 +906,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>
+[Back to Table of Contents](#table-of-contents)
 
 # After the Fast -- Day 13, One  More Day to Go!
 
@@ -1006,6 +983,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>
+[Back to Table of Contents](#table-of-contents)
 
 # I Did It! Completed a Fourteen Day Fast
 
@@ -1078,6 +1056,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>
+[Back to Table of Contents](#table-of-contents)
 
 # Losing Fat While Gaining Weight - Post Fast Day 1
 
@@ -1121,6 +1100,7 @@ It is my goal to get back to losing fat by judicious eating of the
 optimal foods in the optimal quantities at the optimal time. I desire
 that by my next fast I will have lost weight to the low point of this
 fast. If I can manage that, I can get to a healthy weight in a year.
+[Back to Table of Contents](#table-of-contents)
 
 # Fasting and Arthritis - Post Fast Day 2
 
@@ -1169,6 +1149,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>
+[Back to Table of Contents](#table-of-contents)
 
 # 16 lbs Less of Lee - Why Fat is So Bad
 
@@ -1270,6 +1251,7 @@ p.p.s. Educate yourself to fully participate in your health strategy 
 
 The health benefits of Extended Fasting: 
 <https://lessoflee.wordpress.com/extended-fasts/>
+[Back to Table of Contents](#table-of-contents)
 
 # Is Fasting Pain Relief Temporary?
 
@@ -1332,6 +1314,7 @@ The health benefits of Extended Fasting: 
 
 Ketones are anti-inflammatory:
 <https://comprehensivespinepain.com/ketosis-diet-pain-management/#:~:text=Of%20the%20three%20ketones%2C%20the,system%20receptors%20linked%20to%20inflammation.>
+[Back to Table of Contents](#table-of-contents)
 
 # Links To the Articles on Less of Lee
 
@@ -1389,3 +1372,5 @@ Ketones are anti-inflammatory:
 
 -   [Is Fasting Pain Relief
     Temporary?](https://lessoflee.wordpress.com/2023/12/23/if-fasting-pain-relief-temporary/)
+    
+[Back to Table of Contents](#table-of-contents)

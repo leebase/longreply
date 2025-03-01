@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Michigan Help for Young Mothers - ChatGPT Pro"
+title: "Michigan Help for Young Mothers - ChatGPT Pro" 
 permalink: /michhelpdr/
 ---
 

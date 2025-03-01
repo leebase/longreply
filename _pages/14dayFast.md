@@ -3,7 +3,7 @@ layout: default
 title: "14 Day Fasting Journal"
 permalink: /14dayfast/
 ---
-[14 Days with No Food [2](#days-with-no-food)](#days-with-no-food)
+[14 Days with No Food [2](#days-with-no-food)](# 14 Days with No Food)
 
 [That Time Exercise Was Bad (Day 2 of my 14 Day Fast)
 [4](#that-time-exercise-was-bad-day-2-of-my-14-day-fast)](#that-time-exercise-was-bad-day-2-of-my-14-day-fast)

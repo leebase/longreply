@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Claude 3.7 Evaluates Elon's All Govt Email"
 permalink: /badelon_claude/
 --- 

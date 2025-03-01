@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "AI LeapFrog"
 permalink: /AI-LeapFrog/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Analyzing Bad Elon Email"
 permalink: /badelon/
 --- 

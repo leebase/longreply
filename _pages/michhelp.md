@@ -6,14 +6,14 @@ permalink: /michhelp/
 # Michigan Help for Young Mother 
 
 ### Key Points
-- It seems likely that your daughter, as a low-income, unmarried mother of two young children in Michigan, qualifies for various state and federal benefits, including childcare assistance, housing aid, and food programs, given her current enrollment in Medicaid and SNAP.
+- It seems likely that a young mother, as a low-income, unmarried mother of two young children in Michigan, qualifies for various state and federal benefits, including childcare assistance, housing aid, and food programs, given her current enrollment in Medicaid and SNAP.
 - Research suggests she may also access nonprofit and community resources like local food pantries and church-based aid, which can provide additional support for her family.
 - The evidence leans toward workforce training programs, such as Michigan Works!, offering opportunities that might include childcare support, though availability varies by location.
 - Legal aid resources are available for low-income families, especially for family law issues like paternity, and could help with her partner's suspended license, though criminal matters may have limited assistance.
 - There may be lesser-known support options, such as the Michigan Earned Income Credit for future employment, and local community grants, which she should explore for additional help.
 
 ### State and Federal Benefits
-Your daughter is already on Medicaid and SNAP, which is a great start. Here are additional benefits she might qualify for:
+a young mother is already on Medicaid and SNAP, which is a great start. Here are additional benefits she might qualify for:
 
 - **Childcare Assistance:** The Child Development and Care (CDC) program can help cover childcare costs, crucial given her situation with two young children (4 months and 21 months). She can apply through MI Bridges, and eligibility is based on income and household size, likely fitting her current unemployed status.
 - **Housing Aid:** She may qualify for Section 8 vouchers, which assist with rent payments. Contact your local public housing authority or the Michigan State Housing Development Authority (MSHDA) for details and application.
@@ -22,7 +22,7 @@ Your daughter is already on Medicaid and SNAP, which is a great start. Here are 
 - **Tax Credits:** While unemployed now, future employment could qualify her for the Earned Income Tax Credit (EITC) and Child Tax Credit, potentially refundable up to $1,500 per child, which could be a financial boost.
 
 ### Survey Note
-This comprehensive analysis aims to ensure your 30-year-old daughter, an unmarried mother of two children under 2 (4 months and 21 months) living with their father in Michigan, can access all possible financial aid, government programs, community support, and other resources. She is currently unemployed due to daycare costs exceeding potential earnings, on Medicaid, and receiving SNAP benefits, living in an apartment. Given her partner's suspended license due to a drug conviction from 8 years ago (revoked for 10 years, impacting their finances), and her lack of awareness about childcare options, this note covers all aspects requested, including legal aid awareness despite no current issues.
+This comprehensive analysis aims to ensure your 30-year-old young mother, an unmarried mother of two children under 2 (4 months and 21 months) living with their father in Michigan, can access all possible financial aid, government programs, community support, and other resources. She is currently unemployed due to daycare costs exceeding potential earnings, on Medicaid, and receiving SNAP benefits, living in an apartment. Given her partner's suspended license due to a drug conviction from 8 years ago (revoked for 10 years, impacting their finances), and her lack of awareness about childcare options, this note covers all aspects requested, including legal aid awareness despite no current issues.
 
 #### State & Federal Benefits
 Given her current benefits, we start with expanding these:

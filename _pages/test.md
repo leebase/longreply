@@ -10,3 +10,4 @@ permalink: /lunduke-test/
 2. Add front matter - customize title and permalink
 3. Commit and sync
 4. Be patient for 1 minute or so
+5. And enjoy the page

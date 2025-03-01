@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Michigan Help for Young Mothers"
+title: "Michigan Help for Young Mothers - Grok"
 permalink: /michhelp/
 ---
 # Michigan Help for Young Mother 

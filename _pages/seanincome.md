@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Michigan Help for Young Mothers"
+title: "Michigan Help for Young Mothers Father's Income"
 permalink: /seanincome/
 ---
 Overview

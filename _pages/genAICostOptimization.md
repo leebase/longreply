@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Optimizing My GenAI Spen"
+title: "Optimizing My GenAI Spend"
 permalink: /genai-spend/
 --- 
 

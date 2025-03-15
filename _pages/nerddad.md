@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: "Nerd Dad or Autistic Dat"

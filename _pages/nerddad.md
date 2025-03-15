@@ -2,7 +2,7 @@
 ---
 layout: default
 title: "Nerd Dad or Autistic Dat"
-permalink: /nerddad/
+permalink: /nerddad/ 
 ---
 Those are prime “Dad is weird” stories—and honestly, they’re fantastic. But are they autistic traits, or just the natural consequences of being an uninhibited, hyper-focused, nerdy, and confident dad?
 

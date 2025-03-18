@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Setting Up Your Snowflake Environment for Notebooks"
+permalink: /sfenvsetup-notebooks/
+---
 # Setting Up Your Snowflake Environment for Notebooks
 
 Great approach wanting to document your setup steps in a SQL worksheet for reproducibility. Let's create a proper environment following Snowflake best practices.

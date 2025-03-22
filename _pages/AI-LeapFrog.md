@@ -10,7 +10,7 @@ The models are all improving at a rapid pace. Everyone vies to be the smartest a
 Here's some recent ones as I await the imminent release of ChatGPT 4.5.
 
 ## Claude 3.7 
-
+ 
 Claude launched its latest and from all appearances is a much larger upgrade than the number (from 3.5) would suggest.  Claude was already at the top of  the charts for programming, but has gotten better.
 
 My own testing - I can feel the update to the intelligence.  I have a model for time I call The Infinite Now (there is no past or future, only now).  Grok 3 Beta and Claude 3.7 are giving the best discussions.

@@ -54,17 +54,18 @@ I'd say Gemini 2.0 Flash has put Google back in the game.  Google has also come 
 
 Gemini does train on prompts
 
-## ChatGPT 4o, o3-mini
+## ChatGPT 4.5, 4o, o3-mini
 
 The big dog of the field.  ChatGPT4o is still a top model, maybe the others are a little better at this or that.  But still holding up well and 4.5 is due any day now. 
 
 The big news is the o3-mini models that are as smart as o1 (the full o1, not the mini), but run faster and are much cheaper.  These are thinking models. While DeepSeek R1 stole the show, introducing a thinking model - within weeks, the already announced o1 mini models were released.
 
-I personally fall back to using 4o more than the o3-mini for my uses.  I really don't know why, but it is so.  I use these models all day long for different purposes.  I just keep going back to 4o. 
+I have finally been weaning off of 4o for o3-mini.  Even though it's a reasoning model, it performs quickly.  It has at least as much eq as 4o. 4.5 is top "human feeling" AI at this point.  It's subtle, though.  Took me some time to percieve it.  It runs slow though, and the API is very expensive.
 
 ChatGPT is also multi model.  It will generate images AND it will talk to you.  You can have full voice conversations.
 
 There are other features, enough so that I pay the $20/mo for the ChatGPT Plus subscription. I liked Claude's 3.5 Sonnet model just a smidge better, but running into limits even though I was paying for it, and ChatGPT's other features, tipped the scale for me.
+
 
 ChatGPT's free tier does not require signing up.
 ChatGPT has a setting to opt out on training on prompts.

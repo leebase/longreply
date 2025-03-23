@@ -112,6 +112,13 @@ Costs are near-zero: Linux (free), Python/SQLite (free), Visual Studio Code (fre
 #### Unexpected Detail: GenAI’s Dual Role
 Beyond career prep, GenAI’s role as a learning aid is transformative. It can explain complex GED topics, brainstorm HVAC projects, and even help with college coursework, making it a personal tutor at zero cost, which is unexpected for a teen used to traditional study methods.
 
+#### The Payoff: Jobs You’re Built For
+Stick with this, and in two years you’re not just a GED kid with HVAC certs—you’re a hybrid beast. Here’s what you’re prepped for:  
+- **HVAC Data Tech ($50-70k to start, $80k+ fast):** Companies like Trane or Johnson Controls need techs who fix units *and* analyze performance. Your Python-SQLite chops—logging temps, spotting trends—make you the guy who saves energy costs. Add GenAI know-how, and you’re optimizing systems, not just wrenching.  
+- **Building Automation Tech ($60-90k):** HVAC meets IT here—think smart buildings. Your Linux and scripting skills tweak control systems; GenAI experiments show you get AI’s role. Firms like Siemens or Honeywell pay for that.  
+- **Junior Data Analyst ($50-80k):** Not HVAC-specific, but your Pandas-Matplotlib work on real datasets (temp logs, energy use) lands gigs at startups or tech shops. GenAI skills—prompting, understanding models—boost you to AI support roles ($70k+).  
+- **GenAI Side Hustle ($variable):** Prompt engineering’s a thing—companies pay $20-50/hour freelance to craft AI inputs. Your two years mastering Gemini/Grok/ChatGPT? That’s the ticket.  
+
 ---
 
 ### Key Citations

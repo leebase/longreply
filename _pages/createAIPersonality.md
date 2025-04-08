@@ -99,10 +99,10 @@ Keep in mind the AI has no opinion or personality. I know I said this, but it be
 
 As you talk, if you aren’t liking how it’s going, **give it specific feedback** on what you’d like. It’s not a person. It won’t be offended.
 
-Sometimes with your spouse it’s:  
+You can't say to your wife:  
 "honey, will you just get to the point already?"  
 
-With the AI, say:  
+But you can tell the AI how to be as in:  
 "Stop reflecting back my own thoughts — I already know what I think. I’m asking you to reason with me."  
 Or:  
 "I know I said to be enthusiastic, but dial it back a bit."

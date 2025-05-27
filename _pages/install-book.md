@@ -8,7 +8,7 @@ permalink: /install-book/
 ---
 **Instructions for Installing FBReader and Reading the Book**
 
-Hi Connie
+Hi Connie,
 
 Here's how to get the book "Sunrise on the Reaping" on your iPhone so we can read it at the same time!
 

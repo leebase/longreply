@@ -26,13 +26,13 @@ In other words: you don’t need paleo fiction or tribal reenactment. You just n
 Below are trusted articles aligned with low-carb, metabolic health perspectives. Each link explains **why the food is harmful**, and **when it entered common use**.
 
 ### Refined Sugar
-- **[How Sugar Messes with Your Health](https://www.westonaprice.org/podcast/wise-traditions-podcast-episode-410-how-sugar-messes-with-your-health/)** – Weston A. Price Foundation, 2024
+- **[How Sugar Messes with Your Health](https://www.westonaprice.org/podcast/how-sugar-messes-with-your-health/#gsc.tab=0)** – Weston A. Price Foundation, 2024
 
 ### High Fructose Corn Syrup
 - **[The Murky World of High-Fructose Corn Syrup](https://www.westonaprice.org/health-topics/modern-diseases/the-murky-world-of-high-fructose-corn-syrup/)** – Weston A. Price Foundation, 2003
 
 ### Industrial Seed Oils (“Vegetable Oils”)
-- **[Vegetable Oils: A History of Fats Gone Wrong](https://www.zeroacre.com/post/vegetable-oils-a-history-of-fats-gone-wrong)** – Zero Acre Farms Blog, 2023
+- **[Vegetable Oils: A History of Fats Gone Wrong](https://www.zeroacre.com/blog/the-history-of-vegetable-oils)** – Zero Acre Farms Blog, 2023
 
 ### Artificial Sweeteners
 - **[Sugar-Free Blues: Everything You Wanted to Know About Artificial Sweeteners](https://www.westonaprice.org/health-topics/modern-diseases/sugar-free-blues-everything-you-wanted-to-know-about-artificial-sweeteners/)** – WAPF, 2004
@@ -47,36 +47,21 @@ Below are trusted articles aligned with low-carb, metabolic health perspectives.
 - **[Fast Food, Weight Gain and Insulin Resistance](https://wholehealthsource.blogspot.com/2011/05/fast-food-weight-gain-and-insulin.html)** – Stephan Guyenet, 2011
 
 ### Mass-Market Snacks (Chips, Cookies, etc.)
-- **[How Ultra-Processed Foods Are Fueling Chronic Disease](https://drhyman.com/blog/2025/02/10/podcast-ep1006/)** – Mark Hyman & Vani Hari, 2025
+- **[How Ultra-Processed Foods Are Fueling Chronic Disease](https://drhyman.com/blogs/content/how-ultra-processed-foods-are-fueling-chronic-disease)** – Mark Hyman & Vani Hari, 2025
 
 ### Packaged Foods with Long Shelf Lives
-- **[Our Broken Food System (WAPF summary of *Pandora’s Lunchbox*)](https://www.westonaprice.org/podcast/wise-traditions-podcast-episode-52-our-broken-food-system/)** – Weston A. Price Foundation
+- **[Our Broken Food System (WAPF summary of *Pandora’s Lunchbox*)](Our Broken Food System (WAPF summary of Pandora’s Lunchbox) – Weston A. Price Foundation)** – Weston A. Price Foundation
 
 ### Artificial/Natural Flavorings
-- **[Mark Hyman on the Dark Side of “Natural Flavors”](https://drhyman.com/blog/2025/02/10/podcast-ep1006/)** – with Vani Hari
+- **[The Truth About What’s Really in Our Food with Vani Hari”](https://drhyman.com/blogs/content/podcast-ep1023)** – with Vani Hari
 
 ### Processed Dairy and Fake Cheese Products
-- **[Our Broken Food System](https://www.westonaprice.org/podcast/wise-traditions-podcast-episode-52-our-broken-food-system/)** – WAPF
+- **[Our Broken Food System](https://www.westonaprice.org/health-topics/modern-foods/our-broken-food-system/#gsc.tab=0)** – WAPF
 
 ### Sugar-Sweetened Beverages (Soda, Energy Drinks)
-- **[How Sugar Messes with Your Health](https://www.westonaprice.org/podcast/wise-traditions-podcast-episode-410-how-sugar-messes-with-your-health/)** – WAPF
+- **[How Sugar Messes with Your Health](https://www.westonaprice.org/podcast/how-sugar-messes-with-your-health/#gsc.tab=0)** – WAPF
 
 ### Plant-Based Synthetic Meats
-- **[Fake Meat vs Real Meat Not Nutritionally Equivalent (Spectrum News)](https://spectrumlocalnews.com/nc/charlotte/news/2021/07/06/fake-meat-vs--real-meat--not-nutritionally-equivalent-)** – 2021 Study Coverage  
-- **[Dr. Mark Hyman podcast on real vs fake meat](https://drhyman.com/blog/2023/10/12/podcast-ep765/)** – 2023
-
----
-
-## 📘 Full Expository Article
-
-_“How Industrial Foods Wrecked Our Metabolism – And Why Ancestral Foods Are the Answer”_
-
-> *(This section is already polished and available; let me know if you want it embedded here or in a separate markdown file.)*
-
----
-
-## ✅ Next Steps
-
-- Review each source link to verify accuracy.
-- Once confirmed, publish as blog post, educational PDF, or social media series.
+- **[Fake Meat vs Real Meat Not Nutritionally Equivalent (Spectrum News)](https://spectrumlocalnews.com/nc/charlotte/food-and-dining/2021/07/06/fake-meat-and-real-meat--not-nutritionally-equivalent---researchers-find#:~:text=%22The%20analysis%20of%2036%20carefully,the%20nutrients%20in%20a%20burger.)** – 2021 Study Coverage  
+- **[Real vs. Fake:  The Consequences of Our Food Choices](https://understandingag.com/real-vs-fake-the-consequences-of-our-food-choices/)** 
 

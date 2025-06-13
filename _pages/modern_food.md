@@ -2,7 +2,8 @@
 layout: default
 title: "Real Food for Real Health: How Modern Foods Wrecked Our Metabolism"
 permalink: /modern_food/
----# 🥩 Real Food for Real Health: How Modern Foods Wrecked Our Metabolism
+---
+# 🥩 Real Food for Real Health: How Modern Foods Wrecked Our Metabolism
 
 ## 📜 Preface Summary
 

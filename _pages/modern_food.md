@@ -50,7 +50,7 @@ Below are trusted articles aligned with low-carb, metabolic health perspectives.
 - **[How Ultra-Processed Foods Are Fueling Chronic Disease](https://drhyman.com/blogs/content/how-ultra-processed-foods-are-fueling-chronic-disease)** – Mark Hyman & Vani Hari, 2025
 
 ### Packaged Foods with Long Shelf Lives
-- **[Our Broken Food System (WAPF summary of *Pandora’s Lunchbox*)](Our Broken Food System (WAPF summary of Pandora’s Lunchbox) – Weston A. Price Foundation)** – Weston A. Price Foundation
+- **[Our Broken Food System ](https://www.westonaprice.org/health-topics/modern-foods/our-broken-food-system/#gsc.tab=0)** – Weston A. Price Foundation
 
 ### Artificial/Natural Flavorings
 - **[The Truth About What’s Really in Our Food with Vani Hari”](https://drhyman.com/blogs/content/podcast-ep1023)** – with Vani Hari

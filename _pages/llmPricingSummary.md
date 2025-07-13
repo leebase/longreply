@@ -1,8 +1,3 @@
----
-layout: default
-title: "LLM API Pricing from OpenRouter.ai"
-permalink: /llmpricing/
---- 
 # OpenRouter LLM Model Cost Comparison (Simplified & Categorized)
 
 This document provides a highly streamlined overview of Large Language Models (LLMs) available via OpenRouter, focusing on comparative developer costs within functional tiers.
@@ -51,14 +46,15 @@ These models offer a robust blend of capabilities and cost, representing a solid
 
 These models excel in complex tasks, advanced reasoning, coding, and situations requiring deeper understanding or more precise instruction following. They come with a moderate increase in cost compared to workhorse models.
 
-**(Price Leader: Gemini 2.5 Pro & GPT-4.1 & o3 @ ~$3.00)**
+**(Price Leader: Gemini 2.5 Pro, GPT-4.1, & o3 @ ~$3.00)**
 
 | Model Name        | Developer | Estimated Cost per 1M Tokens (80% In / 20% Out) | Price Leader | % More (vs. Leader) |
 | :---------------- | :-------- | :---------------------------------------------- | :----------- | :------------------ |
 | Gemini 2.5 Pro    | Google    | $3.00                                           | ✓            | 0%                  |
 | GPT-4.1           | OpenAI    | $3.20                                           |              | 6.67%               |
 | o3                | OpenAI    | $3.20                                           |              | 6.67%               |
-| Grok 3 Beta       | xAI       | $5.40                                           |              | 80.00%              |
+| Grok 3            | xAI       | $5.40                                           |              | 80.00%              |
+| Grok 4            | xAI       | $5.40                                           |              | 80.00%              |
 | Claude Sonnet 4   | Anthropic | $5.40                                           |              | 80.00%              |
 
 ---

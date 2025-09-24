@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Gemini 2.5 Pro Code Review of a Github Repository"

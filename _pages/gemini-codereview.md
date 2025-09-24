@@ -4,7 +4,7 @@ layout: default
 title: "Gemini 2.5 Pro Code Review of a Github Repository"
 permalink: /gemini-codereview/
 ---
-I delevoped a utility to take date in csv/excel files and create the sql ddl for the tables in a database.  It sanitizes the column names and derives column types.  I used Kilo Code with Grok 4 Code Fast as the iterative coding partner, and OpenAI Codex with Gpt 5 Codex High as the planning and review tool from the command line.
+I delevoped a utility to take date in csv/excel files and create the sql ddl for the tables in a database.  It sanitizes the column names and derives column types.  I used Kilo Code with Grok 4 Code Fast as the iterative coding partner, and OpenAI Codex with Gpt 5 Codex High as the planning and review tool from the command line. 
 
 What follows is a Gemini 2.5 Pro code review.  I had loaded the project into a git repository and loaded that repository into Gemini.  I think it did an excellent review.  I have some refinements I'll make because of it.
 

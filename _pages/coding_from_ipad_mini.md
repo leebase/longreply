@@ -35,5 +35,4 @@ This morning I pulled the changed code to my local machine. I had Gemini 2.5 Pro
 
 The safety here is the branch/PR workflow: nothing changes your mainline until you review and accept the PR. This project is relatively small, but I look forward to applying this workflow to something far more significant.
 
-Link to the Gemini Code Review:  
-https://leebase.github.io/longreply/gemini-codereview-codex/
+Link to the Gemini Code Review: [Gemini Code Review — Codex](https://leebase.github.io/longreply/gemini-codereview-codex/)

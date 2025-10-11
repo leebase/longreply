@@ -106,7 +106,7 @@ That is the Divine Struggle:
 a world where the fight between self and surrender is itself the arena of worship—  
 where our very striving to love and obey is the proof that we were made in the image of a God who wills both freedom and holiness.
 
-```markdown
+```
 And so I don’t stand here as a man who solved the problem of evil.  
 I stand here barefoot before it.  
 The ground is holy because it holds both our freedom and His goodness—  

@@ -19,7 +19,19 @@ Pages sort by the `date` field in front matter. Add `date: YYYY-MM-DD` to contro
   </button>
 </div>
 
-{% assign docs = site.collections.pages.docs %}
+{% assign docs = site.collections["pages"].docs %}
+{% if docs == nil or docs == empty %}
+  {% assign docs = site.pages %}
+{% endif %}
+
+{% assign filtered_docs = "" | split: "" %}
+{% for doc in docs %}
+  {% if doc.path contains "_pages/" %}
+    {% assign filtered_docs = filtered_docs | push: doc %}
+  {% endif %}
+{% endfor %}
+{% assign docs = filtered_docs %}
+
 {% assign dir_names = "" | split: "" %}
 {% assign root_docs = "" | split: "" %}
 

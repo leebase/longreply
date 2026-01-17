@@ -1,0 +1,106 @@
+flowchart TB
+%% ============================================================
+%% Star Schema (Pretty) — Mermaid Flowchart Version
+%% - Designed for human readability + nice defaults
+%% - Keeps Mermaid-as-source so AI can generate it
+%% ============================================================
+
+%% ---------------------------
+%% Layout helpers
+%% ---------------------------
+%% Put dimensions in a row; fact below centered
+subgraph DIMS["Dimensions"]
+direction LR
+
+DATE["<div style='font-size:14px'><b>DIM_DATE</b></div>
+<hr/>
+<b>PK</b> date_key<br/>
+full_date<br/>
+year • quarter • month_num<br/>
+month_name • day_of_month<br/>
+day_of_week • is_weekend<br/>
+iso_week • (fiscal_year) • (fiscal_period)"]
+
+PROD["<div style='font-size:14px'><b>DIM_PRODUCT</b></div>
+<hr/>
+<b>PK</b> product_key<br/>
+<b>NK</b> product_id<br/>
+product_name<br/>
+category • subcategory<br/>
+brand • unit_price<br/>
+is_active<br/>
+<hr/>
+<i>SCD2</i>: effective_start_date<br/>
+<i>SCD2</i>: effective_end_date<br/>
+is_current"]
+
+CUST["<div style='font-size:14px'><b>DIM_CUSTOMER</b></div>
+<hr/>
+<b>PK</b> customer_key<br/>
+<b>NK</b> customer_id<br/>
+full_name • email<br/>
+segmentation_tier<br/>
+city • state • postal_code<br/>
+country<br/>
+<hr/>
+<i>SCD2</i>: effective_start_date<br/>
+<i>SCD2</i>: effective_end_date<br/>
+is_current"]
+
+STORE["<div style='font-size:14px'><b>DIM_STORE</b></div>
+<hr/>
+<b>PK</b> store_key<br/>
+(store_id)<br/>
+store_name<br/>
+city • state • region<br/>
+store_type<br/>
+is_open"]
+
+end
+
+FACT["<div style='font-size:15px'><b>FACT_SALES</b> <span style='font-size:12px'>(Grain: 1 row per sale line)</span></div>
+<hr/>
+<b>PK</b> sales_sk<br/>
+<hr/>
+<b>FK</b> date_key → DIM_DATE<br/>
+<b>FK</b> product_key → DIM_PRODUCT<br/>
+<b>FK</b> customer_key → DIM_CUSTOMER<br/>
+<b>FK</b> store_key → DIM_STORE<br/>
+<hr/>
+<b>Measures</b><br/>
+sales_amount<br/>
+quantity_sold<br/>
+discount_amt<br/>
+<hr/>
+<b>Degenerate</b><br/>
+(order_number)<br/>
+(line_number)<br/>
+<hr/>
+<b>Audit</b><br/>
+loaded_at<br/>
+source_system"]
+
+%% ---------------------------
+%% Relationships
+%% ---------------------------
+DATE -->|"1 ⟶ many"| FACT
+PROD -->|"1 ⟶ many"| FACT
+CUST -->|"1 ⟶ many"| FACT
+STORE -->|"1 ⟶ many"| FACT
+
+%% ---------------------------
+%% Styling
+%% ---------------------------
+classDef dim fill:#eef6ff,stroke:#2563eb,stroke-width:1px,color:#0f172a,rx:10,ry:10;
+classDef fact fill:#fff7ed,stroke:#f97316,stroke-width:2px,color:#0f172a,rx:12,ry:12;
+classDef group fill:#ffffff,stroke:#94a3b8,stroke-dasharray: 6 4,color:#0f172a,rx:14,ry:14;
+
+class DATE,PROD,CUST,STORE dim;
+class FACT fact;
+class DIMS group;
+
+%% Optional: make link labels cleaner
+linkStyle 0 stroke:#2563eb,stroke-width:1.5px;
+linkStyle 1 stroke:#2563eb,stroke-width:1.5px;
+linkStyle 2 stroke:#2563eb,stroke-width:1.5px;
+linkStyle 3 stroke:#2563eb,stroke-width:1.5px;

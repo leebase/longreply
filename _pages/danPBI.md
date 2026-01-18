@@ -2,7 +2,7 @@
 layout: default
 title: "Dan Learns PowerBI"
 permalink: /danpbi/
---- 
+---  
 This curriculum is designed to transition an Operations Leader from technical zero to a Power BI practitioner using a Six Sigma **DMAIC** (Define, Measure, Analyze, Improve, Control) framework.
 
 # 📊 DanData: Power BI Mastery for Ops Leaders

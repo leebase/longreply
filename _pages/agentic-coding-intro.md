@@ -2,6 +2,7 @@
 title: "It's Time for Humans to Pair Up With AI Agents"
 description: "Agentic coding is the biggest shift in how software gets built since version control. It's free to try, the learning curve is gentle, and the compound advantage starts the day you begin."
 pubDate: 2025-02-19
+permalink: /agentic-coding-intro/
 author: "Lee Harrington"
 tags: ["agentic-coding", "AI", "google-antigravity", "software-development"]
 ---
